@@ -1,0 +1,14 @@
+[
+  {
+    "type": "basic",
+    "description": "purchasedDate"
+  },
+  {
+    "type": "medium",
+    "description": "purchasedDate"
+  },
+  {
+    "type": "advanced",
+    "description": "purchasedDate"
+  }
+]

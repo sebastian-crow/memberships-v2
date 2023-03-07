@@ -21,3 +21,11 @@ yarn dev
 - lint-staged: linting will only happen on staged files, not all file
 - Latest Husky
 - TypeScript types are checked before each commit
+
+## License
+
+MIT
+
+---
+
+> [SebastianCrow](https://github.com/sebastian-crow) <br>

@@ -25,7 +25,3 @@ yarn dev
 ## License
 
 MIT
-
----
-
-> [SebastianCrow](https://github.com/sebastian-crow) <br>

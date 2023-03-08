@@ -1,6 +1,6 @@
-# Memberships-v2 API Next.js with TypeScript and ESLint
+# Memberships-v2 GraphQL API Next.js with TypeScript and ESLint
 
-A graphql API. Working on it
+A GraphQL API. Using Nextjs, TypeScript, PostgreSQL, Docker, ESlint, Husky.
 
 ## Get started
 
